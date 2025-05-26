@@ -8,15 +8,25 @@ Uma API web simples e robusta para gestão de tarefas (ToDo List), construída c
 
 ## Table of Contents
 
-1. [Sobre o Projeto](#sobre-o-projeto)
-2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-3. [Instalação e Execução](#instalação-e-execução)
-4. [Endpoints da API](#endpoints-da-api)
-5. [Modelos de Dados](#modelos-de-dados)
-6. [Códigos de Status HTTP](#códigos-de-status-http)
-7. [Testes e Documentação Interativa](#testes-e-documentação-interativa)
-8. [Contribuindo](#contribuindo)
-9. [Licença](#licença)
+1. **Conheça o Projeto**
+  1. [Sobre o Projeto](#sobre-o-projeto)
+  2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  3. [Instalação e Execução](#instalação-e-execução)
+  4. [Endpoints da API](#endpoints-da-api)
+  5. [Modelos de Dados](#modelos-de-dados)
+  6. [Códigos de Status HTTP](#códigos-de-status-http)
+  7. [Testes e Documentação Interativa](#testes-e-documentação-interativa)
+  8. [Contribuindo](#contribuindo)
+  9. [Licença](#licença)
+
+2. [Tutorial Construindo uma API de Gestão de Tarefas com FastAPI, Python 3.13 e uv](01-tutorial.md)
+
+3. **Perguntas Frequentes**
+  1. [Quais endpoints iniciais devo criar para a API de gestão de tarefas e suas URIs?](02-endpoints_iniciais.md)
+  2. [Como definir os modelos Pydantic para representar tarefas com atributos como título, descrição, prioridade e status?](03-definicao_modelos_pydantic.md)
+  3. [Quais modelos de resposta devo criar para retornar informações das tarefas com status code adequado?](04-modelos_retorno_pydantic.md)
+  4. [Quais códigos de status são mais adequados para indicar sucesso na resposta de tarefas?](05-codigos_%20status_sucesso.md)
+  5. [Como usar códigos 4xx e 5xx para sinalizar erros específicos nas tarefas?](06-codigos_status_erros.md)
 
 ---
 

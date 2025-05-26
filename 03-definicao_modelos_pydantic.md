@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# Como definir os modelos Pydantic para representar tarefas com atributos como título, descrição, prioridade e status
+# Como definir os modelos Pydantic para representar tarefas com atributos como título, descrição, prioridade e status?
 
 Você pode definir os modelos Pydantic para representar uma tarefa com os atributos título, descrição, prioridade e status da seguinte forma:
 

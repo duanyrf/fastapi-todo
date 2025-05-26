@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# Quais endpoints iniciais devo criar para a API de gestão de tarefas e suas URIs
+# Quais endpoints iniciais devo criar para a API de gestão de tarefas e suas URIs?
 
 Para uma API inicial de gestão de tarefas (ToDo List), os endpoints essenciais e suas URIs são:
 

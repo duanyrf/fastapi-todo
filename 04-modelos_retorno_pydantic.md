@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# Quais modelos de resposta devo criar para retornar informações das tarefas com status code adequado
+# Quais modelos de resposta devo criar para retornar informações das tarefas com status code adequado?
 
 Para retornar informações das tarefas em uma API de gestão de tarefas, você deve criar modelos de resposta Pydantic que representem os dados essenciais da tarefa e utilizar status codes adequados para cada operação. Veja como estruturar isso:
 

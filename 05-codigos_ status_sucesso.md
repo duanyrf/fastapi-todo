@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# Quais códigos de status são mais adequados para indicar sucesso na resposta de tarefas
+# Quais códigos de status são mais adequados para indicar sucesso na resposta de tarefas?
 
 Os códigos de status mais adequados para indicar sucesso na resposta de tarefas em uma API REST são:
 
